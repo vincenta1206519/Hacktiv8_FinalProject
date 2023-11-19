@@ -3,4 +3,4 @@ Repository ini adalah repository final project yang dilakukan oleh 2 orang menge
 
 nama anggota kel : 
 1. Vincent Tanaka - PYTN-KS18-013
-2. Audris Vondrea - PYTN-KS18-0
+2. Audris Vondrea Wirduno - PYTN-KS18-02
